@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Como estudante de tecnologia, estou ampliando meu conhecimento em sistemas operacionais Windows e Linux e sou experiente em programação em Java e Python. Atualmente, estou estudando a linguagem de programação C por meio do curso CS50 da Universidade de Harvard, que também aborda habilidades em SQL, Python, HTML, CSS, JavaScript e segurança cibernética. Sou um aprendiz comprometido e sempre em busca de novos desafios para me desenvolver como profissional de tecnologia. Além disso, possuo habilidades em resolução de problemas, trabalho em equipe e comunicação eficaz, o que me permite desempenhar um excelente trabalho em ambientes colaborativos. Estou ansioso para aplicar minhas habilidades em futuros projetos e fazer contribuições valiosas para a indústria de tecnologia.
+
 <div align="center">
   <a href="https://github.com/devmitz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmitz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
