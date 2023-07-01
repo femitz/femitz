@@ -1,6 +1,6 @@
 ### Resumo
 
-Como estudante de tecnologia, estou ampliando meu conhecimento em sistemas operacionais Windows e Linux e sou experiente em programação em Java e Python. Atualmente, estou estudando a linguagem de programação C por meio do curso CS50 da Universidade de Harvard, que também aborda habilidades em SQL, Python, HTML, CSS, JavaScript e segurança cibernética. Sou um aprendiz comprometido e sempre em busca de novos desafios para me desenvolver como profissional de tecnologia. Além disso, possuo habilidades em resolução de problemas, trabalho em equipe e comunicação eficaz, o que me permite desempenhar um excelente trabalho em ambientes colaborativos. Estou ansioso para aplicar minhas habilidades em futuros projetos e fazer contribuições valiosas para a indústria de tecnologia.
+My name is Felipe and I'm currently studying Computer Science. In addition to my regular coursework, I'm taking advantage of the opportunity to enhance my knowledge through additional courses, such as Harvard's CS50. My goal is to demonstrate my strong interest and passion for technology in a practical way. I'm devoting time to hands-on and collaborative projects, with a focus on software development.
 
 <div align="center">
   <a href="https://github.com/devmitz">
