@@ -1,7 +1,3 @@
-### Resumo
-
-My name is Felipe and I'm currently studying Computer Science. In addition to my regular coursework, I'm taking advantage of the opportunity to enhance my knowledge through additional courses, such as Harvard's CS50. My goal is to demonstrate my strong interest and passion for technology in a practical way. I'm devoting time to hands-on and collaborative projects, with a focus on software development.
-
 <div align="center">
   <a href="https://github.com/devmitz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmitz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
